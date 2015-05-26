@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasperServer.Client", "JasperServer.Client.csproj", "{0451BAEF-DF2E-4B98-8644-94EE9415E389}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasperServer.Client", "JasperServer.Client\JasperServer.Client.csproj", "{0451BAEF-DF2E-4B98-8644-94EE9415E389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasperServer.Client.Core", "..\JasperServer.Client.Core\JasperServer.Client.Core.csproj", "{51A6DD35-1646-4B60-9C2F-94E06711F038}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasperServer.Client.Core", "JasperServer.Client.Core\JasperServer.Client.Core.csproj", "{51A6DD35-1646-4B60-9C2F-94E06711F038}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
